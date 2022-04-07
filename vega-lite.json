@@ -1,5 +1,6 @@
 {
    "axis": {
+      "domain":false,
       "grid": false,
       "domainColor":"#adb5bd",
       "labelColor":"#343a40",
