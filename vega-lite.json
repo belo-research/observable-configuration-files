@@ -3,10 +3,10 @@
       "grid": false,
       "domainColor":"#ffffff",
       "labelColor":"#343a40",
-      "tickColor":"#495057",
+      "tickColor":"#adb5bd",
       "tickWidth":1,
       "translate":0,
-      "titleColor":"#adb5bd" ,
+      "titleColor":"#212529" ,
    },
    "title": {
       "color": "#212529",
