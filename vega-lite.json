@@ -5,7 +5,7 @@
       "labelColor":"#343a40",
       "tickColor":"#adb5bd",
       "tickWidth":1,
-      "translate":0,
+      "translate":1,
       "titleColor":"#212529" ,
    },
    "title": {
