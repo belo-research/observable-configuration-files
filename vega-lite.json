@@ -2,12 +2,18 @@
    "axis": {
       "grid": true,
       "gridCap": "round",
-      "domainColor":"red",
+      "gridWidth":1,
+      
+      "domainColor":"#ffffff",
+      
       "labelColor":"#343a40",
       "labelFont":"fakt pro",
+      "labelFontSize": 12,
       "tickColor":"#adb5bd",
       "tickWidth":1,
-      "translate":1,
+      "tickBand":"extent",
+      "tickRound":true,
+      
       "titleColor":"#212529" ,
       "titleFont":"fakt pro",
    },
