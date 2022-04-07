@@ -5,11 +5,11 @@
         },
         "line": {
             "strokeCap": "round",
-            "strokeWidth": 4,
+            "strokeWidth": 4
         },
         "text": {
-            "font": "fakt pro",
-        },
+            "font": "fakt pro"
+        }
     },
     "axis": {
         "grid": true,
@@ -26,17 +26,17 @@
         "tickRound": true,
         "titleColor": "#212529",
         "titleFont": "fakt pro",
-        "titleFontWeight": 400,
+        "titleFontWeight": 400
     },
     "legend": {
         "labelFont": "fakt pro",
-        "titleFont": "fakt pro",
+        "titleFont": "fakt pro"
     },
     "title": {
         "color": "#212529",
         "font": "fakt pro",
         "fontWeight": 500,
-        "subtitleFont": "fakt pro",
+        "subtitleFont": "fakt pro"
     },
     "range": {
         "category": [
@@ -47,7 +47,7 @@
             "#fce0b2",
             "#ffb06e",
             "#fa6b2b",
-            "#fa3817",
+            "#fa3817"
         ],
         "diverging": [
             "#005FA0",
@@ -67,7 +67,7 @@
             "#fce0b2",
             "#ffb06e",
             "#fa6b2b",
-            "#fa3817",
+            "#fa3817"
         ],
         "ordinal": [
             "#005FA0",
@@ -77,7 +77,7 @@
             "#fce0b2",
             "#ffb06e",
             "#fa6b2b",
-            "#fa3817",
+            "#fa3817"
         ],
         "ramp": [
             "#005FA0",
@@ -87,7 +87,7 @@
             "#fce0b2",
             "#ffb06e",
             "#fa6b2b",
-            "#fa3817",
+            "#fa3817"
         ]
     }
 }
