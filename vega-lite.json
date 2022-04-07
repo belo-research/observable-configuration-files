@@ -1,12 +1,15 @@
 {
    "axis": {
-      "grid": false,
-      "domainColor":"#ffffff",
+      "grid": true,
+      "gridCap": "round",
+      "domainColor":"red",
       "labelColor":"#343a40",
+      "labelFont":"fakt pro",
       "tickColor":"#adb5bd",
       "tickWidth":1,
       "translate":1,
       "titleColor":"#212529" ,
+      "titleFont":"fakt pro",
    },
    "title": {
       "color": "#212529",
