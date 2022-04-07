@@ -1,6 +1,16 @@
 {
+   "style":{ 
+      "line":{
+         "strokeCap":"round",
+         "strokeWidth":5,
+      },
+      "text":{
+         "font":"fakt pro",
+      },
+   },
    "axis": {
-      "grid": [ false, false],
+      "grid": true,
+      "gridDash":[0,5],
       "gridCap": "round",
       "gridWidth":1,
       
