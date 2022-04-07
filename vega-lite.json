@@ -15,7 +15,7 @@
       "grid": true,
       "gridCap": "round",
       "gridWidth":1,
-      "gridColor":"#f8f9fa",
+      "gridColor":"#e9ecef",
       
       "domainColor":"#ffffff",
       
