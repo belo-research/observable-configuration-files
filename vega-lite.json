@@ -1,6 +1,6 @@
 {
    "axis": {
-      "grid": [ false, true],
+      "grid": [ false, false],
       "gridCap": "round",
       "gridWidth":1,
       
@@ -16,7 +16,7 @@
       
       "titleColor":"#212529" ,
       "titleFont":"fakt pro",
-      "titleFontWeight":300,
+      "titleFontWeight":700,
    },
    "legend":{
       "labelFont":"fakt pro",
