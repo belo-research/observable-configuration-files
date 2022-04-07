@@ -1,8 +1,7 @@
 {
    "axis": {
-      "domain":false,
       "grid": false,
-      "domainColor":"#adb5bd",
+      "domainColor":"#ffffff",
       "labelColor":"#343a40",
       "tickColor":"#212529",
       "translate":5,
