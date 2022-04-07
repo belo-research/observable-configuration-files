@@ -1,6 +1,7 @@
 {
    "axis": {
-      "grid": true,
+      "grid": false,
+      
       "gridCap": "round",
       "gridWidth":1,
       
