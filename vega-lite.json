@@ -16,7 +16,7 @@
       
       "titleColor":"#212529" ,
       "titleFont":"fakt pro",
-      "titleFontWeight":700,
+      "titleFontWeight":400,
    },
    "legend":{
       "labelFont":"fakt pro",
