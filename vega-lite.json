@@ -22,7 +22,7 @@
       "labelColor":"#343a40",
       "labelFont":"fakt pro",
       "labelFontSize": 12,
-      "tickColor":"#adb5bd",
+      "tickColor":"#ced4da",
       "tickWidth":1,
       "tickBand":"extent",
       "tickRound":true,
