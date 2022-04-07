@@ -1,8 +1,11 @@
 {
    "style":{ 
+      "cell": {
+         "stroke": "transparent"
+      },
       "line":{
          "strokeCap":"round",
-         "strokeWidth":5,
+         "strokeWidth":4,
       },
       "text":{
          "font":"fakt pro",
@@ -10,9 +13,9 @@
    },
    "axis": {
       "grid": true,
-      "gridDash":[0,5],
       "gridCap": "round",
       "gridWidth":1,
+      "gridColor":"#f8f9fa",
       
       "domainColor":"#ffffff",
       
