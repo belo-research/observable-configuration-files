@@ -1,96 +1,93 @@
 {
-   "style":{ 
-      "cell": {
-         "stroke": "transparent"
-      },
-      "line":{
-         "strokeCap":"round",
-         "strokeWidth":4,
-      },
-      "text":{
-         "font":"fakt pro",
-      },
-   },
-   "axis": {
-      "grid": true,
-      "gridCap": "round",
-      "gridWidth":1,
-      "gridColor":"#e9ecef",
-      
-      "domainColor":"#ffffff",
-      
-      "labelColor":"#343a40",
-      "labelFont":"fakt pro",
-      "labelFontSize": 12,
-      "tickColor":"#ced4da",
-      "tickWidth":1,
-      "tickBand":"extent",
-      "tickRound":true,
-      
-      "titleColor":"#212529" ,
-      "titleFont":"fakt pro",
-      "titleFontWeight":400,
-   },
-   "legend":{
-      "labelFont":"fakt pro",
-      "titleFont":"fakt pro",
-   },
-   "title": {
-      "color": "#212529",
-      "font":"fakt pro",
-      "fontWeight":500,
-      "subtitleFont":"fakt pro",
-   },
-   "range": {
-    "category": [
-      "#005FA0",
-      "#007094",
-      "#008a96",
-      "#73b0a6",
-      "#fce0b2",
-      "#ffb06e",
-      "#fa6b2b",
-      "#fa3817",
-    ],
-    "diverging":[
-      "#005FA0",
-      "#007094",
-      "#008a96",
-      "#73b0a6",
-      "#fce0b2",
-      "#ffb06e",
-      "#fa6b2b",
-      "#fa3817",
-    ],
-    "heatmap":[
-      "#005FA0",
-      "#007094",
-      "#008a96",
-      "#73b0a6",
-      "#fce0b2",
-      "#ffb06e",
-      "#fa6b2b",
-      "#fa3817",
-    ],
-    "ordinal":[
-      "#005FA0",
-      "#007094",
-      "#008a96",
-      "#73b0a6",
-      "#fce0b2",
-      "#ffb06e",
-      "#fa6b2b",
-      "#fa3817",
-    ],
-     "ramp":[
-      "#005FA0",
-      "#007094",
-      "#008a96",
-      "#73b0a6",
-      "#fce0b2",
-      "#ffb06e",
-      "#fa6b2b",
-      "#fa3817",
-    ]
-  }
-} 
+    "style": {
+        "cell": {
+            "stroke": "transparent"
+        },
+        "line": {
+            "strokeCap": "round",
+            "strokeWidth": 4,
+        },
+        "text": {
+            "font": "fakt pro",
+        },
+    },
+    "axis": {
+        "grid": true,
+        "gridCap": "round",
+        "gridWidth": 1,
+        "gridColor": "#e9ecef",
+        "domainColor": "#ffffff",
+        "labelColor": "#343a40",
+        "labelFont": "fakt pro",
+        "labelFontSize": 12,
+        "tickColor": "#ced4da",
+        "tickWidth": 1,
+        "tickBand": "extent",
+        "tickRound": true,
+        "titleColor": "#212529",
+        "titleFont": "fakt pro",
+        "titleFontWeight": 400,
+    },
+    "legend": {
+        "labelFont": "fakt pro",
+        "titleFont": "fakt pro",
+    },
+    "title": {
+        "color": "#212529",
+        "font": "fakt pro",
+        "fontWeight": 500,
+        "subtitleFont": "fakt pro",
+    },
+    "range": {
+        "category": [
+            "#005FA0",
+            "#007094",
+            "#008a96",
+            "#73b0a6",
+            "#fce0b2",
+            "#ffb06e",
+            "#fa6b2b",
+            "#fa3817",
+        ],
+        "diverging": [
+            "#005FA0",
+            "#007094",
+            "#008a96",
+            "#73b0a6",
+            "#fce0b2",
+            "#ffb06e",
+            "#fa6b2b",
+            "#fa3817",
+        ],
+        "heatmap": [
+            "#005FA0",
+            "#007094",
+            "#008a96",
+            "#73b0a6",
+            "#fce0b2",
+            "#ffb06e",
+            "#fa6b2b",
+            "#fa3817",
+        ],
+        "ordinal": [
+            "#005FA0",
+            "#007094",
+            "#008a96",
+            "#73b0a6",
+            "#fce0b2",
+            "#ffb06e",
+            "#fa6b2b",
+            "#fa3817",
+        ],
+        "ramp": [
+            "#005FA0",
+            "#007094",
+            "#008a96",
+            "#73b0a6",
+            "#fce0b2",
+            "#ffb06e",
+            "#fa6b2b",
+            "#fa3817",
+        ]
+    }
+}
