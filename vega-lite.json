@@ -4,7 +4,7 @@
       "domainColor":"#ffffff",
       "labelColor":"#343a40",
       "tickColor":"#212529",
-      "translate":5,
+      "translate":0,
    },
    "title": {
       "color": "#212529",
