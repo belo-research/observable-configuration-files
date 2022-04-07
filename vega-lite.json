@@ -1,9 +1,13 @@
 {
    "axis": {
       "grid": false,
-      "domainColor":"#212529",
+      "domainColor":"#adb5bd",
       "labelColor":"#343a40",
       "tickColor":"#212529",
+      "translate":5,
+   },
+   "title": {
+      "color": "#212529",
    },
    "range": {
     "category": [
