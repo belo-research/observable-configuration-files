@@ -6,6 +6,7 @@
       "tickColor":"#495057",
       "tickWidth":1,
       "translate":0,
+      "titleColor":"#212529" ,
    },
    "title": {
       "color": "#212529",
@@ -60,17 +61,6 @@
       "#ffb06e",
       "#fa6b2b",
       "#fa3817",
-    ],
-     "symbol":[
-      "#005FA0",
-      "#007094",
-      "#008a96",
-      "#73b0a6",
-      "#fce0b2",
-      "#ffb06e",
-      "#fa6b2b",
-      "#fa3817",
-    ],
-      
+    ]
   }
 } 
